@@ -2,7 +2,7 @@
 
 <!-- ═════════════════════ HERO ═════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0891b2&text=STORM-NULL&fontColor=e0f2fe&fontSize=58&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20REVERSE%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" alt="Storm-Cat profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0f172a,100:0891b2&text=STORM-NULL&fontColor=e0f2fe&fontSize=58&fontAlignY=38&desc=CYBERSECURITY%20%7C%20LINUX%20%7C%20REVERSE%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn" alt="Storm-Null profile banner"/>
 
 <a href="https://github.com/Storm-Null">
   <img src="https://img.shields.io/badge/GitHub-storm--cat-0f172a?style=for-the-badge&logo=github&logoColor=67e8f9" alt="GitHub profile"/>
