@@ -61,6 +61,7 @@ My goal is to build solid fundamentals, learn through hands-on labs, and turn di
 
 <p>
   <img src="https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=67E8F9" alt="C++">
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
   <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash"/>
   <img src="https://img.shields.io/badge/Assembly-111827?style=for-the-badge&logo=assemblyscript&logoColor=67E8F9" alt="Assembly language"/>
